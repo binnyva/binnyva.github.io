@@ -2,7 +2,7 @@
 title: Binny V A
 email: binnyva at gmail
 description: "Just another Jekyll page. ;-)"
-baseurl: "/" # the subpath of your site, e.g. /blog/
+baseurl: / # the subpath of your site, e.g. /blog/
 url: "https://binnyva.github.io" # the base hostname & protocol for your site
 twitter_username: binnyva
 github_username:  binnyva
