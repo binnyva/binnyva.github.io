@@ -22,10 +22,10 @@ Turn off Automatic Backup in Google photos - if this is On, it sends all the pho
 - Open Account Settings(top right profile photo)
 	- ![Account Settings](/assets/google-photos/1-profile.jpg)
 - Go to Account Storage
-	- ![Acount Storage](/assets/google-photos/1-backup.jpg)
+	- ![Acount Storage](/assets/google-photos/2-backup.jpg)
 - Turn off 'Back up & Sync'
 	- ![Backup On](/assets/google-photos/3-backup-on.jpg)
-	- ![Backup Off](file:///mnt/x/Data/www/Sites/github/binnyva.github.io/assets/google-photos/4-backup-off.jpg)
+	- ![Backup Off](/assets/google-photos/4-backup-off.jpg)
 
 ## Step 2: Setup a Review Time
 
