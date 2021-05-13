@@ -11,8 +11,8 @@ But fret not! I have a solution. Its a process change that will reduce your phot
 
 The idea is to add a step that lets you select which all photos should be uploaded to Google Photos - instead of sending everything.
 
-- This will reduce storage - lesser photos, lesser MBs.
-- This review process will add intentionality to your photography. It will make you see patterns - which types of photos you think are good - and which are getting skipped. After a while, your photos will becoming better - you'll take more photos that will get selected in the final cut.
+- This will **reduce storage** - lesser photos, lesser MBs.
+- This review process will **add intentionality to your photography**. It will make you see patterns - which types of photos you think are good - and which are getting skipped. After a while, your photos will becoming better - you'll take more photos that will get selected in the final cut.
 
 ## Step 1: Turn off Automatic Backup
 
@@ -20,8 +20,12 @@ Turn off Automatic Backup in Google photos - if this is On, it sends all the pho
 
 - Open Google Photos
 - Open Account Settings(top right profile photo)
+	- ![Account Settings](/assets/google-photos/1-profile.jpg)
 - Go to Account Storage
+	- ![Acount Storage](/assets/google-photos/1-backup.jpg)
 - Turn off 'Back up & Sync'
+	- ![Backup On](/assets/google-photos/3-backup-on.jpg)
+	- ![Backup Off](file:///mnt/x/Data/www/Sites/github/binnyva.github.io/assets/google-photos/4-backup-off.jpg)
 
 ## Step 2: Setup a Review Time
 
@@ -36,7 +40,9 @@ Every time you get the calender reminder, review and select photos to backup.
 - Open Google Photos
 - Open Account Settings(top right profile photo)
 - Tap on the 'Backup is Off' Menu item - this will show you all the photos on your phone that's not backed up.
+	- ![Backup is Off](/assets/google-photos/5-review-option.jpg)
 - Select all photos you want to backup - select only the best.
 - Click on the upload button at the top.
+	- ![Review](/assets/google-photos/6-review.jpg)
 
 There is a hidden advantage to this process - I enjoy the process of going through the photos of the last one week - it gives me a chance to reflect on the past week as well. I hope this happens for you too.
